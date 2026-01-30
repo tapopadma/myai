@@ -1,0 +1,33 @@
+{
+  "user_id": "user_9f3a21",
+  "week_start": "2026-01-01",
+  "week_end": "2026-01-07",
+  "timezone": "Asia/Kolkata",
+  "source": "aggregated_mobile_activity_interpreter",
+  "activities": [
+    {
+      "activity_id": "act_001",
+      "timestamp": "2026-01-02T10:45:00+05:30",
+      "category": "health",
+      "type": "doctor_visit",
+      "source_app": "calendar",
+      "summary": "User downloaded medical prescription from manipal hospital,whitefield mentioning symptoms like fever and fatigue lasting two days. Doctor's diagnosis states a seasonal viral infection, advised rest, and prescribed fever-reducing and anti-inflammatory medication."
+    },
+    {
+      "activity_id": "act_002",
+      "timestamp": "2026-01-06T22:10:00+05:30",
+      "category": "personal",
+      "type": "note_creation",
+      "source_app": "notes",
+      "summary": "User wrote a note late at night reflecting on personal goals for the new year in terms of handling distress in life, aiming for a work-life balance, improving daily routines, prioritizing health, and spending more time on meaningful activities."
+    },
+    {
+      "activity_id": "act_007",
+      "timestamp": "2026-01-07T07:30:00+05:30",
+      "category": "health",
+      "type": "physical_activity",
+      "source_app": "fitness_tracker",
+      "summary": "User read ebook focused on personal finance, specifically covering basics of index funds, long-term investing, and risk diversification. The reading appeared self-motivated and aligned with improving financial awareness."
+    }
+  ]
+}
