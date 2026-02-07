@@ -1,0 +1,1 @@
+npx @modelcontextprotocol/inspector /home/tapopadma/tinyllama_env/bin/python /home/tapopadma/myai/smartbookmark/smartbookmark_server.py

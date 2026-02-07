@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "index": {
+      "knn": true
+    }
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "title": {
+        "type": "text",
+        "fields": {
+          "keyword": { "type": "keyword", "ignore_above": 256 }
+        }
+      },
+      "content": {
+        "type": "text"
+      },
+      "tags": {
+        "type": "keyword"
+      },
+      "doc_type": {
+        "type": "keyword"
+      },
+      "created_at": {
+        "type": "date"
+      },
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 384,
+        "index": true,
+        "similarity": "cosine",
+        "index_options": {
+          "type": "hnsw",
+          "m": 16,
+          "ef_construction": 100
+        }
+      }
+    }
+  }
+}

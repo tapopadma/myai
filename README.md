@@ -3,6 +3,10 @@
 myai is the AI assistant providing generic support to the user based on user's day-to-day activities. The goal in long term is to achieve 
 capability to learn user activities from a variety of signals, provide assistance and influence the user.
 
+## Smart Bookmark
+
+A smart bookmark is the AI powered document engine that allows user to add tons of local docs/urls carrying guidelines,designs,small logs,stories,personal data,chat history etc and query in natural language for any information they need that's useful for their personal concerns at any time.
+
 ## Shop quality analyzer
 
 This module leverages agentic framework on top of LLM to analyse & report about products in the store based on the customer perspectives from the past activities.
