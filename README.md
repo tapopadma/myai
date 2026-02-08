@@ -5,7 +5,9 @@ capability to learn user activities from a variety of signals, provide assistanc
 
 ## Smart Bookmark
 
-A smart bookmark is the AI powered document engine that allows user to add tons of local docs/urls carrying guidelines,designs,small logs,stories,personal data,chat history etc and query in natural language for any information they need that's useful for their personal concerns at any time.
+[Smart bookmark is the AI powered document engine](smartbookmark/README.md) that allows user to add tons of local docs / urls carrying guidelines, designs, small logs, stories, personal data, chat history & so on and query in natural language for any information they need that's useful for their personal concerns at any time.
+
+![Smart Bookmark demo](assets/demo_bookmark.gif)
 
 ## Shop quality analyzer
 
