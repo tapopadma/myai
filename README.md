@@ -7,8 +7,7 @@ capability to learn user activities from a variety of signals, provide assistanc
 
 Smart bookmark ([design](smartbookmark/README.md)) is [the AI powered document engine](smartbookmark/README.md) that allows user to add personal documents, guidelines, designs, urls, logs, stories, personal data, chat history & so on and query in natural language for any information needed at any time in emergency.
 
-### demo
-[Full recording](https://youtu.be/VZkJbFfjuOc)
+### demo ([full recording](https://youtu.be/VZkJbFfjuOc))
 
 ![Smart Bookmark demo](assets/smartbookmark.gif)
 
