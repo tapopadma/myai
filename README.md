@@ -5,7 +5,7 @@ capability to learn user activities from a variety of signals, provide assistanc
 
 ## Smart Bookmark
 
-Smart bookmark ([design](smartbookmark/README.md)) is [the AI powered document engine](smartbookmark/README.md) that allows user to add personal documents, guidelines, designs, urls, logs, stories, personal data, chat history & so on and query in natural language for any information needed at any time in emergency.
+Smart bookmark ([design](smartbookmark/README.md)) is the AI powered document engine that allows user to add personal documents, guidelines, designs, urls, logs, stories, personal data, chat history & so on and query in natural language for any information needed at any time in emergency.
 
 ### demo ([full recording](https://youtu.be/VZkJbFfjuOc))
 
@@ -27,4 +27,4 @@ The model is [trained](model/README.md) based on data from user activity.
 - Suggesting useful activities, fun places & productive tips based on the past user activity logs around visited places, health diagnosis reports, documented recurring symptoms.
 - Monitoring processes running in the PC & recommending useful tools to be installed for better safeguarding & optimising system resources.
 
-The entire eco-system is to be within the scope of user's device to achieve 100% user privacy.
+The eco-system is to be within the scope of user's device to achieve 100% user privacy.
