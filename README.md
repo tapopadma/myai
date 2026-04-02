@@ -9,6 +9,8 @@ Smart bookmark ([design](smartbookmark/README.md)) is the AI powered document en
 
 ### demo
 
+![Smart Bookmark demo 2](assets/smartbookmark-2.gif)
+
 ![Smart Bookmark demo](assets/smartbookmark.gif)
 
 ## Shop quality analyzer
