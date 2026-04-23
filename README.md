@@ -1,17 +1,15 @@
 # Overview
 
 myai is the AI assistant providing generic support to the user based on user's day-to-day activities. The goal in long term is to achieve 
-capability to learn user activities from a variety of signals, provide assistance and influence the user.
+capability to learn user activities from a variety of sources, provide assistance and influence the user.
 
 ## Smart Bookmark
 
-Smart bookmark ([design](smartbookmark/README.md)) is the AI powered document engine that allows user to add personal documents, guidelines, designs, urls, logs, stories, personal data, chat history & so on and query in natural language for any information needed at any time in emergency.
+Smart bookmark ([design](smartbookmark/README.md)) is the AI powered document engine that allows user to add personal documents, guidelines, designs, urls, logs, stories, personal data, chat history & so on and query in natural language for any information needed at any time in emergency (i.e. an intelligent personal wiki).
 
 ### demo
 
-![Smart Bookmark demo 2](assets/smartbookmark-2.gif)
-
-![Smart Bookmark demo](assets/smartbookmark.gif)
+![Smart Bookmark demo](assets/smartbookmark-2.gif)
 
 ## Shop quality analyzer
 
